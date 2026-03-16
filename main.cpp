@@ -1,4 +1,4 @@
-﻿#ifndef WIN32_LEAN_AND_MEAN
+#ifndef WIN32_LEAN_AND_MEAN
     #define WIN32_LEAN_AND_MEAN
 #endif
 #define NOGDI             // Windows�쓽 Rectangle �븿�닔 李⑤떒
@@ -8,7 +8,7 @@
 #include <windows.h>
 #include "raylib.h"
 
-// 留ㅽ겕濡� ����떊 typedef瑜� �궗�슜�븯�뿬 �븞�쟾�븯寃� 蹂꾩묶�쓣 遺��뿬�빀�땲�떎.
+
 
 typedef Rectangle Rect; 
 
